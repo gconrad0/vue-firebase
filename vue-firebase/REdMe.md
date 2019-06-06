@@ -1,0 +1,1 @@
+App that uses Vue and Firebase
